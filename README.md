@@ -13,6 +13,7 @@ In this challenge, i'll try to build a predictive model that answers the questio
 <p>I have used `accuracy_score` to evaluate this binary classification problem</p>
          
 Accuracy = TP + TN / TP + TN + FP + FN
+
 where TP = True Positives,
 TN = True Negatives,
 FP = False Positives,
