@@ -10,7 +10,7 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, i'll try to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 </p>
-<p>I have used `accuracy_score` to evaluate this binary classification problem</p>
+<p>I have used accuracy_score to evaluate this binary classification problem</p>
          
 Accuracy = TP + TN / TP + TN + FP + FN
 
@@ -19,6 +19,6 @@ TN = True Negatives,
 FP = False Positives,
 FN = False Negatives
 <p>Consider checking the confusion matrix for further details</p>
-
+<p>You can view predictions as binary outcomes i.e 1/0 in submission.csv file</p>
 
 <a href="https://www.kaggle.com/competitions/titanic">Kaggle Titanic Competition</a>
